@@ -12,6 +12,7 @@ public class FurnitureOrder implements FurnitureOrderInterface {
      */
     FurnitureOrder() {
         // TODO: Complete the constructor
+        new HashMap
     }
 
     public void addToOrder(final Furniture type, final int furnitureCount) {
